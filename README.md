@@ -55,8 +55,20 @@ After choosing the four points correctly, the program displays 3 windows:
 
 The following are the warped and mask images repectively:
 
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/results/warped.jpg)
 
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/results/mask.jpg)
 
 The following is the intended result. Notice the billboard on the left with the cast of Spartacus:
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus_billboard.jpg)
+
+Some other results:
+
+Notice the billboard on the right:
+
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus_billboard_2.jpg)
+
+Notice the cast on the building to the left:
+
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus_billboard_3.jpg)
