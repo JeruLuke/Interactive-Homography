@@ -44,7 +44,9 @@ Notice the two arguments:
 1. `-b` takes in the base image (the image where the other image is to be placed). Here it is `billboard.jpg`.
 2. `-s` takes in the inner image to be placed (otherwise called homographed image). Here it is `Sapartacus.jpg`.
 
-Upon execution both the input images would show up. Choose **four** points on the base image where you want the other image to be placed. Selection of points must be in anti-clockwise direction starting from top-left, in other words: top-left -> top-right -> bottom-right -> bottom_left.
+Upon execution both the input images would show up. Choose **four** points on the base image where you want the other image to be placed. Selection of points must be in anti-clockwise direction starting from top-left, in other words: top-left -> top-right -> bottom-right -> bottom_left. Have a look at the following:
+
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/points_ordering.jpg)
 
 After choosing the four points correctly, the program displays 3 windows:
 1. A window with the homographed image warped in with dimensions of the base image. (`warped.jpg`)
