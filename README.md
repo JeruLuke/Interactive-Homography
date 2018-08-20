@@ -46,7 +46,7 @@ Notice the two arguments:
 
 Upon execution both the input images would show up. Choose **four** points on the base image where you want the other image to be placed. Selection of points must be in anti-clockwise direction starting from top-left, in other words: top-left -> top-right -> bottom-right -> bottom_left. Have a look at the following:
 
-![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/point_ordering.jpg)
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/point_ordering.JPG)
 
 After choosing the four points correctly, the program displays 3 windows:
 1. A window with the homographed image warped in with dimensions of the base image. (`warped.jpg`)
