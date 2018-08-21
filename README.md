@@ -32,6 +32,7 @@ Main Folder
      |--> mask.jpg
      |--> Spartacus_billboard.jpg
      |--> warped.jpg
+     |--> Final.jpg
 ```
 
 ## How to run it?
@@ -53,7 +54,7 @@ After choosing the four points correctly, the program displays 4 windows:
 1. An image with the chosen points (`Marked_image.jpg`)
 2. A window with the homographed image warped in with dimensions of the base image. (`warped.jpg`)
 3. Another window containing the mask which needs to be added with the previous image. (`mask.jpg`)
-4. The expected result.
+4. The expected result. (`Final.jpg`)
 
 ## Result
 
