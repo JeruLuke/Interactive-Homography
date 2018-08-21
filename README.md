@@ -9,11 +9,11 @@ Here are the images used:
 
 1. The street of New York city:
 
-![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/billboard.jpg)
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/images/billboard.jpg)
 
 2. The cast of the TV series Spartacus:
 
-![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus.jpg)
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/images/Spartacus.jpg)
 
 ## Software and Installation
 
@@ -37,7 +37,7 @@ Main Folder
 
 Open the terminal, navigate to the location of the repository and execute the following:
 
-`python homography_mouseclick_argument.py -b billboard.jpg -s Spartacus.jpg`
+`python homography_mouseclick_argument.py -b images/billboard.jpg -s images/Spartacus.jpg`
 
 Notice the two arguments:
 
