@@ -48,16 +48,25 @@ Upon execution both the input images would show up. Choose **four** points on th
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/point_ordering.JPG)
 
-After choosing the four points correctly, the program displays 3 windows:
-1. A window with the homographed image warped in with dimensions of the base image. (`warped.jpg`)
-2. Another window containing the mask which needs to be added with the previous image. (`mask.jpg`)
-3. The expected result.
+After choosing the four points correctly, the program displays 4 windows:
+1. An image with the chosen points (`Marked_image.jpg`)
+2. A window with the homographed image warped in with dimensions of the base image. (`warped.jpg`)
+3. Another window containing the mask which needs to be added with the previous image. (`mask.jpg`)
+4. The expected result.
 
 ## Result
 
-The following are the warped and mask images repectively:
+The following are the results:
+
+**Point-marked image:**
+
+![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/results/Marked_image.jpg)
+
+**Warped Image:**
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/results/warped.jpg)
+
+**Mask Image:**
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/results/mask.jpg)
 
@@ -65,12 +74,12 @@ The following is the intended result. Notice the billboard on the left with the 
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus_billboard.jpg)
 
-Some other results:
+**Some other results:**
 
-Notice the billboard on the right:
+1. Notice the billboard on the right:
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus_billboard_2.jpg)
 
-Notice the cast on the building to the left:
+2. Notice the cast on the building to the left:
 
 ![alt text](https://github.com/JeruLuke/Interactive-Homography/blob/master/Spartacus_billboard_3.jpg)
