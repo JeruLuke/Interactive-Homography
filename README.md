@@ -23,14 +23,15 @@ Any version of Python with OpenCV version 3.0.0 (at the least).
 
 ```
 Main Folder
-  --> homography_mouseclick.py
-  --> homography_mouseclick_argument.py
-  --> billboard.jpg (base image)
-  --> Spartacus.jpg (inner image)
-  --> results
-      --> mask.jpg
-      --> Spartacus_billboard.jpg
-      --> warped.jpg
+  |--> homography_mouseclick.py
+  |--> homography_mouseclick_argument.py
+  |--> images
+     |--> billboard.jpg (base image)
+     |--> Spartacus.jpg (inner image)
+  |--> results
+     |--> mask.jpg
+     |--> Spartacus_billboard.jpg
+     |--> warped.jpg
 ```
 
 ## How to run it?
